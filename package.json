@@ -22,13 +22,14 @@
     "autocorector": "^4.1.0",
     "body-parser": "~1.12.4",
     "ejs": "^3.0.1",
-    "express": "~4.13.1",
+    "express": "^5.2.1",
     "method-override": "^2.3.1",
     "mocha": "^7.0.1",
     "mongoose": "^5.8.11",
     "mongoose-data-seed": "^2.1.6",
     "nodemon": "^2.0.2",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "serve-static": "^2.2.1"
   },
   "mdSeed": {
     "seedersFolder": "./seeders"
