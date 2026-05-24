@@ -22,7 +22,7 @@
     "autocorector": "^4.1.0",
     "body-parser": "~1.12.4",
     "ejs": "^3.0.1",
-    "express": "^5.2.1",
+    "express": "~5.2.1",
     "method-override": "^2.3.1",
     "mocha": "^7.0.1",
     "mongoose": "^5.8.11",
